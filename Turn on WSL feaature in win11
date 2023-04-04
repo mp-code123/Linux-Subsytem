@@ -1,0 +1,7 @@
+Run this command in powershell given below:---
+
+
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+
+
+Open Microsoft Store > MyLibrary > open ubuntu if installed if not download it > open >done

@@ -1,0 +1,13 @@
+Open powershell:
+----------------
+enter following command:
+
+1. wsl -l
+This will list all registered distros.
+
+2. wsl --unregister Ubuntu-22.04
+Unregistering.
+The operation completed successfully.
+
+Now open ubuntu Enter username password
+And done!
